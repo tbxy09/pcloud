@@ -51,7 +51,7 @@
     "whatwg-fetch": "2.0.3"
   },
   "scripts": {
-    "start": "node scripts/start.js",
+    "start": "sh ./run.sh",
     "predeploy": "npm run build",
     "deploy": "surge ./build react-sortable-tree.surge.sh",
     "build": "node scripts/build.js"

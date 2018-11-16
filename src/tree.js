@@ -6,9 +6,8 @@ export default class Tree extends Component {
 
   constructor(props){
     super(props);
-
     this.state = {
-      treeData: [{title: 'Chick',children:[{title: 'Egg'}]}]
+      treeData: [{title: 'Tencent',children:[{title: 'ecs_regular'}]}]
       // treeData: thedata
     };
 
