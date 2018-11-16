@@ -20,3 +20,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 package-lock.json
+
+cloud_api/__pycache__/aliyun_cloud_api.cpython-35.pyc
+cloud_api/__pycache__/settings.cpython-35.pyc
+util/__pycache__/log.cpython-35.pyc
