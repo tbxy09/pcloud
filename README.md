@@ -64,4 +64,4 @@ the React app can be started by runing a Flask entry, and integrate the react-so
 
 must using the right version for each component
 
-[react_raw.gif](https://oneyardline.cn/assets/react_raw.gif)
+![react_raw.gif](https://oneyardline.cn/assets/react_raw.gif)
