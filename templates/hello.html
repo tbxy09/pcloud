@@ -1,0 +1,185 @@
+<html>
+  <head lang="en">
+    <meta charset="UTF-8">
+    <title>Flask React</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- styles -->
+    <!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bower_components/bootstrap/dist/css/bootstrap.min.css') }}"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}"> -->
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/static/css/rating/examples.css">>
+	<link rel="stylesheet" href="/static/css/rating/fontawesome-stars.css">
+
+    <link rel="stylesheet" href="/static/css/rating/bars-1to10.css">
+    <link rel="stylesheet" href="/static/css/rating/bars-movie.css">
+    <link rel="stylesheet" href="/static/css/rating/bars-square.css">
+    <link rel="stylesheet" href="/static/css/rating/bars-pill.css">
+    <link rel="stylesheet" href="/static/css/rating/bars-reversed.css">
+    <link rel="stylesheet" href="/static/css/rating/bars-horizontal.css">
+
+    <link rel="stylesheet" href="/static/css/rating/fontawesome-stars.css">
+    <link rel="stylesheet" href="/static/css/rating/css-stars.css">
+    <link rel="stylesheet" href="/static/css/rating/bootstrap-stars.css">
+    <link rel="stylesheet" href="/static/css/rating/fontawesome-stars-o.css">
+
+    <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+
+  </head>
+  <body>
+    <div class="container">
+
+     <div class="examples">
+        <div class="row">
+          <div class="col">
+			<!-- col 1 -->
+            <div class="box box-blue box-example-1to10">
+              <div class="box-header">你给我的简历打几分--确认眼神是关键</div>
+              <div class="box-body">
+                <select id="example-1to10" name="rating" autocomplete="off">
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                  <option value="7" selected="selected">7</option>
+                  <option value="8">8</option>
+                  <option value="9">9</option>
+                  <option value="10">10</option>
+                </select>
+              </div>
+            </div>
+			<!-- col 2 -->
+            <div class="box box-blue box-example-1to10">
+              <div class="box-header">简历匹配度--我是你要找的人吗</div>
+              <div class="box-body">
+                <select id="example-1to10_2" name="rating" autocomplete="off">
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                  <option value="7" selected="selected">7</option>
+                  <option value="8">8</option>
+                  <option value="9">9</option>
+                  <option value="10">10</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="box box-blue box-example-1to10">
+              <div class="box-header">面试评分--有内涵的灵魂是关键</div>
+              <div class="box-body">
+                <select id="example-1to10_3" name="rating" autocomplete="off">
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                  <option value="7" selected="selected">7</option>
+                  <option value="8">8</option>
+                  <option value="9">9</option>
+                  <option value="10">10</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="box box-blue box-example-1to10">
+              <div class="box-header">选择你的ID</div>
+              <div class="box-body">
+                <select id="example-1to10_5" name="rating" autocomplete="off">
+                  <option value="1" selected="selected">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="4">5</option>
+                  <option value="4">6</option>
+                  <option value="4">7</option>
+                </select>
+              </div>
+            </div>
+			<style>
+				.s-btn {
+					position: relative;
+					padding: .8em;
+					border: 1px solid transparent;
+					border-radius: 3px;
+					background-color: transparent;
+					outline: none;
+					font-family: inherit;
+					font-size: 23px;
+					font-weight: 800;
+					line-height: 1.15384615;
+					text-decoration: none;
+					cursor: pointer;
+					border-color: rgba(0,89,153,0);
+					box-shadow: 0 0 0 0 rgba(0,149,255,0);
+					color: #17C
+				}
+				.s-btn__outlined {
+					border-color: #0095ff;
+					box-shadow: 0 0 0 0 rgba(0,149,255,0);
+					color: #17C
+				}
+			</style>
+				 <button id="1" class="s-btn s-btn__outlined" onClick="submit()">提交--谢谢</button>
+
+          </div>
+         </div>
+        </div>
+      <br>
+	  <!-- <li><a href="http://192.168.1.102:5000/desaliIns">CODE(plan)</a></li> -->
+      <!-- <div id="app"></div> -->
+      <!-- <div id="reactEntry"></div> -->
+    </div>
+    <!-- scripts -->
+    <!-- <script src="{{ url_for('static', filename='bower_components/react/react.min.js') }}"></script> -->
+    <!-- <script src="{{ url_for('static', filename='bower_components/react/react-dom.min.js') }}"></script> -->
+    <!-- <script src="{{ url_for('static', filename='app.js') }}"></script> -->
+    <!-- <script src="{{ url_for('static', filename='bundle.js') }}"></script> -->
+    <!-- <script src="{{ url_for('static', filename='app.js') }}"></script> -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script src="/static/js/jquery.barrating.min.js"></script>
+	<script type="text/javascript">
+	   $(function() {
+		  $('#example-1to10').barrating({
+			  theme: 'fontawesome-stars'
+		  });
+	   });
+	   $(function() {
+		  $('#example-1to10_2').barrating({
+			theme: 'fontawesome-stars'
+		  });
+	   });
+	   $(function() {
+		  $('#example-1to10_3').barrating({
+			theme: 'fontawesome-stars'
+		  });
+	   });
+
+		function submit()
+		{
+
+		  var e = document.getElementById("example-1to10");
+		  var strUser = e.options[e.selectedIndex].value;
+		  console.log(strUser)
+
+		  var e = document.getElementById("example-1to10_2");
+		  var strUser = e.options[e.selectedIndex].value;
+		  console.log(strUser)
+
+		  var e = document.getElementById("example-1to10_3");
+		  var strUser = e.options[e.selectedIndex].value;
+		  console.log(strUser)
+
+		  var e = document.getElementById("example-1to10_5");
+		  var strUser = e.options[e.selectedIndex].value;
+		  console.log(strUser)
+		};
+	</script>
+  </body>
+</html>

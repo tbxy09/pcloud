@@ -1,0 +1,1108 @@
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o application.html application.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to 'application'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-08.html 2018-12-08.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-08'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-26.html 2018-06-26.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-09-10.html 2019-09-10.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-09-10'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-13.html 2018-12-13.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-13'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-18.html 2018-06-18.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-18'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-11.html 2018-11-11.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-11'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-24.html 2019-04-24.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-24'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-11.html 2019-01-11.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-11'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-26.html 2019-03-26.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-12.html 2018-10-12.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-12'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-15.html 2019-05-15.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-15'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-07-15.html 2018-07-15.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-07-15'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-20.html 2018-11-20.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-20'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-02-27.html 2019-02-27.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-02-27'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-31.html 2019-03-31.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-31'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-10-08.html 2019-10-08.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-10-08'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-15.html 2018-12-15.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-15'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-08-14.html 2018-08-14.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-08-14'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-17.html 2018-11-17.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-17'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-15.html 2019-03-15.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-15'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-20.html 2019-03-20.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-20'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-28.html 2018-10-28.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-28'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-08.html 2019-05-08.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-08'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-07-28.html 2018-07-28.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-07-28'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-07-05.html 2018-07-05.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-07-05'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-08-23.html 2018-08-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-08-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-18.html 2018-09-18.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-18'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-17.html 2018-06-17.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-17'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-25.html 2018-10-25.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-25'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-09-05.html 2019-09-05.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-09-05'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-03-31.html 2018-03-31.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-03-31'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-02.html 2018-10-02.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-02'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-07-15.html 2019-07-15.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-07-15'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-07.html 2018-10-07.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-07'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-27.html 2019-05-27.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-27'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-20.html 2018-10-20.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-20'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-12.html 2018-11-12.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-12'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-28.html 2018-06-28.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-28'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-06.html 2018-11-06.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-06'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-07-22.html 2018-07-22.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-07-22'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-11.html 2019-03-11.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-11'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-17.html 2018-10-17.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-17'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-08-18.html 2018-08-18.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-08-18'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o project_setup.html project_setup.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to 'project_setup'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-23.html 2018-12-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-29.html 2019-03-29.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-29'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-07.html 2019-01-07.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-07'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-28.html 2019-03-28.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-28'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-31.html 2019-01-31.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-31'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-04.html 2019-04-04.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-04'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-16.html 2018-11-16.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-16'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-21.html 2019-04-21.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-21'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-05-28.html 2018-05-28.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-05-28'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-07.html 2018-12-07.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-07'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-01.html 2018-11-01.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-01'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-11.html 2018-10-11.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-11'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-16.html 2018-09-16.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-16'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-07-21.html 2018-07-21.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-07-21'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-09-12.html 2019-09-12.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-09-12'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-23.html 2018-09-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-29.html 2018-10-29.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-29'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-02.html 2019-04-02.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-02'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o issue_writing.html issue_writing.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to 'issue_writing'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-07-06.html 2019-07-06.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-07-06'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o model_xml.html model_xml.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to 'model_xml'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-06.html 2019-05-06.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-06'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-07-03.html 2019-07-03.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-07-03'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-21.html 2018-10-21.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-21'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-08-28.html 2018-08-28.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-08-28'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-09.html 2018-10-09.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-09'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-13.html 2018-11-13.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-13'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-27.html 2018-12-27.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-27'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-23.html 2018-10-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-28.html 2018-12-28.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-28'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-09.html 2018-06-09.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-09'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-26.html 2019-04-26.md
+[WARNING] Could not convert TeX math '"sample_images/', rendering as TeX:
+  "sample_images/
+  ^
+  unexpected '"'
+  expecting "%", "\\label", "\\nonumber", whitespace, "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-07-30.html 2019-07-30.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-07-30'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-16.html 2019-04-16.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-16'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-01.html 2019-03-01.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-01'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-25.html 2019-04-25.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-25'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-26.html 2019-01-26.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-06-05.html 2019-06-05.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-06-05'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-08.html 2018-11-08.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-08'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-01.html 2019-04-01.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-01'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-05.html 2018-10-05.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-05'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-07-17.html 2019-07-17.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-07-17'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-08-21.html 2018-08-21.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-08-21'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-26.html 2018-09-26.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-22.html 2018-12-22.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-22'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-22.html 2019-05-22.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-22'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-15.html 2019-04-15.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-15'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-09-17.html 2019-09-17.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-09-17'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-02-28.html 2019-02-28.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-02-28'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-01.html 2019-01-01.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-01'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-05-29.html 2018-05-29.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-05-29'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-07-24.html 2018-07-24.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-07-24'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-07-19.html 2019-07-19.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-07-19'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-14.html 2019-05-14.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-14'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-06.html 2018-10-06.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-06'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-08-27.html 2019-08-27.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-08-27'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-24.html 2018-11-24.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-24'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-01.html 2018-12-01.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-01'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-08-09.html 2019-08-09.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-08-09'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-14.html 2018-12-14.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-14'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-19.html 2018-09-19.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-19'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-24.html 2019-03-24.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-24'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-28.html 2019-04-28.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-28'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-07-08.html 2018-07-08.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-07-08'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-02.html 2019-01-02.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-02'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-30.html 2019-01-30.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-30'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-16.html 2018-12-16.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-16'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-07-23.html 2018-07-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-07-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o all.html all.md
+[WARNING] Could not convert TeX math '"sample_images/', rendering as TeX:
+  "sample_images/
+  ^
+  unexpected '"'
+  expecting "%", "\\label", "\\nonumber", whitespace, "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '1  local version="', rendering as TeX:
+  1  local version="
+                   ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{version%%.*}  if [ "', rendering as TeX:
+  ersion%%.*}  if [ "
+                     ^
+  unexpected eof
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname", white space or "}"
+[WARNING] Could not convert TeX math '{shadowsockspwd}"  echo "---------------------------"  echo  # Set shadowsocks config port  while true  do  dport=', rendering as TeX:
+  {shadowsockspwd}"  echo "---------------
+                  ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{dport}):" shadowsocksport  [ -z "', rendering as TeX:
+  {dport}):" shadowsocksport  [ -z "
+           ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport}"  echo "---------------------------"  echo  break  fi  fi  echo -e "[', rendering as TeX:
+  {shadowsocksport}"  echo "--------------
+                   ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{libsodium_url}; then  echo -e "[', rendering as TeX:
+  rl}; then  echo -e "[
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{libsodium_file}.tar.gz!"  exit 1  fi  # Download Shadowsocks file  if ! wget --no-check-certificate -O shadowsocks-master.zip https://github.com/shadowsocks/shadowsocks/archive/master.zip; then  echo -e "[', rendering as TeX:
+  odium_file}.tar.gz!"  exit 1  fi  # Down
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{plain}] Failed to download shadowsocks python file!"  exit 1  fi  # Download Shadowsocks init script  if check_sys packageManager yum; then  if ! wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks -O /etc/init.d/shadowsocks; then  echo -e "[', rendering as TeX:
+  wsocks python file!"  exit 1  fi  # Down
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{plain}] Failed to download shadowsocks chkconfig file!"  exit 1  fi  elif check_sys packageManager apt; then  if ! wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-debian -O /etc/init.d/shadowsocks; then  echo -e "[', rendering as TeX:
+  cks chkconfig file!"  exit 1  fi  elif c
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport},  "local_address":"127.0.0.1",  "local_port":1080,  "password":"', rendering as TeX:
+  shadowsocksport},  "local_address":"127.
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport} -j ACCEPT  /etc/init.d/iptables save  /etc/init.d/iptables restart  else  echo -e "[', rendering as TeX:
+  art  else  echo -e "[
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport} has already been set up."  fi  else  echo -e "[', rendering as TeX:
+  lready been set up."  fi  else  echo -e 
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport}/udp  firewall-cmd --reload  else  echo -e "[', rendering as TeX:
+  oad  else  echo -e "[
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport} manually if necessary."  fi  fi  echo -e "[', rendering as TeX:
+  ually if necessary."  fi  fi  echo -e "[
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{action}_shadowsocks  ;;  *)  echo "Arguments error! [', rendering as TeX:
+  ocks  ;;  *)  echo "Arguments error! [
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to 'all'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-13.html 2018-10-13.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-13'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-07.html 2018-11-07.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-07'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-03.html 2018-11-03.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-03'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-08-26.html 2019-08-26.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-08-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-20.html 2018-09-20.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-20'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-06-23.html 2019-06-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-06-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-09-04.html 2019-09-04.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-09-04'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-31.html 2018-10-31.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-31'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-30.html 2018-11-30.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-30'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-17.html 2019-04-17.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-17'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-07-26.html 2018-07-26.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-07-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-26.html 2018-12-26.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-12-09.html 2019-12-09.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-12-09'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-10.html 2018-12-10.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-10'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-30.html 2019-03-30.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-30'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-13.html 2019-03-13.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-13'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-06-21.html 2019-06-21.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-06-21'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-29.html 2019-01-29.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-29'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-09.html 2019-01-09.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-09'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-12.html 2018-12-12.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-12'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-29.html 2019-05-29.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-29'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-30.html 2019-05-30.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-30'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-22.html 2018-11-22.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-22'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-18.html 2018-11-18.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-18'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-19.html 2018-11-19.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-19'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-09.html 2018-12-09.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-09'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-28.html 2018-09-28.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-28'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-08-26.html 2018-08-26.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-08-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-14.html 2018-11-14.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-14'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-07-16.html 2019-07-16.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-07-16'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-06-25.html 2019-06-25.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-06-25'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-12.html 2018-06-12.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-12'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-25.html 2018-09-25.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-25'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-02.html 2019-03-02.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-02'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o docker_clean.html docker_clean.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to 'docker_clean'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-30.html 2018-12-30.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-30'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-09-02.html 2019-09-02.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-09-02'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-10.html 2019-05-10.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-10'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-10.html 2019-01-10.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-10'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-14.html 2019-03-14.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-14'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-20.html 2019-05-20.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-20'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-25.html 2018-12-25.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-25'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-13.html 2019-04-13.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-13'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-07-11.html 2019-07-11.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-07-11'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-22.html 2018-09-22.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-22'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-18.html 2019-04-18.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-18'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-22.html 2018-10-22.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-22'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-17.html 2018-09-17.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-17'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-16.html 2018-06-16.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-16'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-24.html 2018-09-24.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-24'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-09.html 2019-05-09.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-09'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-11.html 2019-04-11.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-11'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-08-31.html 2018-08-31.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-08-31'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-10.html 2019-04-10.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-10'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-08.html 2018-10-08.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-08'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-14.html 2018-10-14.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-14'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-01.html 2018-09-01.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-01'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-05.html 2018-11-05.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-05'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-04.html 2018-11-04.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-04'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-18.html 2018-10-18.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-18'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-23.html 2019-04-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-08-28.html 2019-08-28.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-08-28'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-11-12.html 2019-11-12.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-11-12'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-09.html 2019-04-09.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-09'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-03.html 2018-09-03.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-03'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-14.html 2019-04-14.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-14'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-21.html 2018-11-21.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-21'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-08-24.html 2018-08-24.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-08-24'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-29.html 2018-12-29.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-29'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-23.html 2019-01-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-10-23.html 2019-10-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-10-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-08.html 2019-01-08.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-08'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-12.html 2019-03-12.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-12'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-08-30.html 2018-08-30.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-08-30'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-16.html 2019-05-16.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-16'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-21.html 2019-03-21.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-21'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-23.html 2018-06-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-10.html 2019-03-10.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-10'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-15.html 2018-11-15.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-15'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-06-29.html 2019-06-29.md
+[WARNING] Could not convert TeX math '1  local version="', rendering as TeX:
+  1  local version="
+                   ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{version%%.*}  if [ "', rendering as TeX:
+  ersion%%.*}  if [ "
+                     ^
+  unexpected eof
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname", white space or "}"
+[WARNING] Could not convert TeX math '{shadowsockspwd}"  echo "---------------------------"  echo  # Set shadowsocks config port  while true  do  dport=', rendering as TeX:
+  {shadowsockspwd}"  echo "---------------
+                  ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{dport}):" shadowsocksport  [ -z "', rendering as TeX:
+  {dport}):" shadowsocksport  [ -z "
+           ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport}"  echo "---------------------------"  echo  break  fi  fi  echo -e "[', rendering as TeX:
+  {shadowsocksport}"  echo "--------------
+                   ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{libsodium_url}; then  echo -e "[', rendering as TeX:
+  rl}; then  echo -e "[
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{libsodium_file}.tar.gz!"  exit 1  fi  # Download Shadowsocks file  if ! wget --no-check-certificate -O shadowsocks-master.zip https://github.com/shadowsocks/shadowsocks/archive/master.zip; then  echo -e "[', rendering as TeX:
+  odium_file}.tar.gz!"  exit 1  fi  # Down
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{plain}] Failed to download shadowsocks python file!"  exit 1  fi  # Download Shadowsocks init script  if check_sys packageManager yum; then  if ! wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks -O /etc/init.d/shadowsocks; then  echo -e "[', rendering as TeX:
+  wsocks python file!"  exit 1  fi  # Down
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{plain}] Failed to download shadowsocks chkconfig file!"  exit 1  fi  elif check_sys packageManager apt; then  if ! wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-debian -O /etc/init.d/shadowsocks; then  echo -e "[', rendering as TeX:
+  cks chkconfig file!"  exit 1  fi  elif c
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport},  "local_address":"127.0.0.1",  "local_port":1080,  "password":"', rendering as TeX:
+  shadowsocksport},  "local_address":"127.
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport} -j ACCEPT  /etc/init.d/iptables save  /etc/init.d/iptables restart  else  echo -e "[', rendering as TeX:
+  art  else  echo -e "[
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport} has already been set up."  fi  else  echo -e "[', rendering as TeX:
+  lready been set up."  fi  else  echo -e 
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport}/udp  firewall-cmd --reload  else  echo -e "[', rendering as TeX:
+  oad  else  echo -e "[
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{shadowsocksport} manually if necessary."  fi  fi  echo -e "[', rendering as TeX:
+  ually if necessary."  fi  fi  echo -e "[
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] Could not convert TeX math '{action}_shadowsocks  ;;  *)  echo "Arguments error! [', rendering as TeX:
+  ocks  ;;  *)  echo "Arguments error! [
+                     ^
+  unexpected '"'
+  expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "{", letter, digit, ".", "\\mbox", "\\text", "\\textbf", "\\textit", "\\textrm", "\\textsf", "\\texttt", "\\bm", "\\boldsymbol", "\\mathbb", "\\mathbf", "\\mathbfcal", "\\mathbffrak", "\\mathbfit", "\\mathbfscr", "\\mathbfsfit", "\\mathbfsfup", "\\mathbfup", "\\mathbold", "\\mathcal", "\\mathfrak", "\\mathit", "\\mathrm", "\\mathscr", "\\mathsf", "\\mathsfit", "\\mathsfup", "\\mathtt", "\\mathup", "\\pmb", "\\symbf", "\\texttt", "\\sqrt", "\\surd", "\\mspace", "\\mathop", "\\mathrel", "\\mathbin", "\\mathord", "\\mathopen", "\\mathclose", "\\mathpunct", "\\phantom", "\\boxed", "\\overset", "\\stackrel", "\\underset", "\\frac", "\\tfrac", "\\dfrac", "\\binom", "\\genfrac", "\\substack", "_", "^", "\\begin", "\\ensuremath", "(", ")", "[", "]", "\\{", "\\}", "\\lbrack", "\\lbrace", "\\rbrack", "\\rbrace", "\\llbracket", "\\rrbracket", "\\langle", "\\rangle", "\\lfloor", "\\rfloor", "\\lceil", "\\rceil", "|", "\\|", "\\lvert", "\\rvert", "\\vert", "\\lVert", "\\rVert", "\\Vert", "\\ulcorner", "\\urcorner", "\\bigg", "\\Bigg", "\\big", "\\Big", "\\biggr", "\\Biggr", "\\bigr", "\\Bigr", "\\biggl", "\\Biggl", "\\bigl", "\\left", "\\not", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "\\", "\\operatorname" or end of input
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-06-29'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-04.html 2018-06-04.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-04'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-07-26.html 2019-07-26.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-07-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-19.html 2019-03-19.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-19'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-19.html 2018-06-19.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-19'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-04.html 2018-10-04.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-04'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-16.html 2018-10-16.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-16'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-23.html 2019-05-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-08-25.html 2018-08-25.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-08-25'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-27.html 2018-09-27.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-27'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-07.html 2019-05-07.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-07'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-02.html 2018-09-02.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-02'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-01.html 2018-10-01.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-01'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-29.html 2019-04-29.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-29'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-07-20.html 2018-07-20.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-07-20'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-20.html 2018-06-20.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-20'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-13.html 2019-05-13.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-13'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-06.html 2018-12-06.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-06'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-11-06.html 2019-11-06.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-11-06'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-22.html 2019-01-22.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-22'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-06-18.html 2019-06-18.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-06-18'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-08-17.html 2018-08-17.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-08-17'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-15.html 2018-10-15.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-15'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-30.html 2018-10-30.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-30'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-21.html 2018-09-21.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-21'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-05-24.html 2019-05-24.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-05-24'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-11-23.html 2018-11-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-11-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-04-03.html 2019-04-03.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-04-03'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-07-31.html 2019-07-31.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-07-31'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-07-10.html 2019-07-10.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-07-10'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-01-14.html 2019-01-14.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-01-14'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-03.html 2018-10-03.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-03'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-02-26.html 2019-02-26.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-02-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-24.html 2018-12-24.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-24'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-23.html 2019-03-23.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-23'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-11-26.html 2019-11-26.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-11-26'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-06-20.html 2019-06-20.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-06-20'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-31.html 2018-12-31.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-31'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-12-11.html 2018-12-11.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-12-11'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2019-03-25.html 2019-03-25.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2019-03-25'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-05-11.html 2018-05-11.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-05-11'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-06-10.html 2018-06-10.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-06-10'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-10-10.html 2018-10-10.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-10-10'
+/usr/bin/pandoc -r markdown+smart+simple_tables+table_captions+yaml_metadata_block --toc --toc-depth=5 -w html --template=/home/.tbxy09/.pandoc/templates/GitHub.html5 -o 2018-09-29.html 2018-09-29.md
+[WARNING] This document format requires a nonempty <title> element.
+  Please specify either 'title' or 'pagetitle' in the metadata.
+  Falling back to '2018-09-29'
