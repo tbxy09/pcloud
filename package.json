@@ -39,7 +39,7 @@
     "react": "^16.4.0",
     "react-bootstrap": "^0.32.1",
     "react-dev-utils": "^5.0.2",
-    "react-dom": "^16.4.0",
+    "react-dom": "^16.4.2",
     "react-sortable-tree": "^2.3.0",
     "react-split-pane": "^0.1.77",
     "resolve": "1.6.0",
