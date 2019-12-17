@@ -7,11 +7,6 @@ from aliyunsdkcore.request import CommonRequest
 # import util
 from util.log import apidebug,apiinfo
 
-# client = AcsClient('<LTAIHW05LP8OLw8x>', '<5PCpkTO2g82HeFKI4H9PyuprhXtQLP>', 'cn-beijing')
-# client = AcsClient(
-#                 'LTAIHW05LP8OLw8x',
-#                 '5PCpkTO2g82HeFKI4H9PyuprhXtQLP',
-#                 'cn-beijing')
 
 def describeIns(*key):
 
